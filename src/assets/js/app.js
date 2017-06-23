@@ -1,2 +1,2 @@
 $(document).foundation();
-alert("hello js");
+//alert("hello js");
